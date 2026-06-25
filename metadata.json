@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Scipio Trading",
+  "description": "Institutional-grade trading tools and education for the disciplined market participant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
